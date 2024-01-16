@@ -13,14 +13,14 @@ Throughout the lab, I successfully learned how to create S3 buckets and implemen
 <h2>Tools Used</h2>
 
 - <b>S3</b> 
-- <b>Bucket Policies</b>
-- <b>JSON Syntax</b>
+- <b>Replication</b>
+- <b>Versioning</b>
 
 <h2>Environments Used </h2>
 
 - <b>AWS</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch S3 Bucket (with unique name) : <br/>
