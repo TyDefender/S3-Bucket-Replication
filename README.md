@@ -1,6 +1,3 @@
-# S3-Bucket-Replication
-Set Up Cross-Region S3 Buckets with Replication 
-
 <h1>Cross-Region S3 Bucket with Replication</h1>
 
 <h2>Description</h2>
