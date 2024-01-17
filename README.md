@@ -37,7 +37,7 @@ Rename Photos because my dogs deserve that<br/>
 <br />
 <br />
 Observe Changes in Second Bucket <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization
+<img src="https://i.imgur.com/qpaQPVY.png" height="80%" width="80%" alt="Disk Sanitization
 <br />
 <br />
 </p>
