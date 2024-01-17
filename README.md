@@ -19,24 +19,27 @@ Throughout the lab, I successfully learned how to create S3 buckets and implemen
 
 <h2>Project walk-through:</h2>
 
+<h3>I started this project by creating two different buckets in two different regions 
+ (us-east-1)(us-west-2)</h3>
+
 <p align="center">
-Create Rule<br/>
+Create rule name and confrim source bucket<br/>
 <img src="https://i.imgur.com/5s7Gsp0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Choose Destination<br/>
+Choose destination and enable object versioning<br/>
 <img src="https://i.imgur.com/YZWjo2s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Upload Dog Photos<br/>
+Upload dog photos<br/>
 <img src="https://i.imgur.com/X1ahqhM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Rename Photos because my dogs deserve that<br/>
+Rename photos because my dogs deserve that<br/>
 <img src="https://i.imgur.com/NNZ9bAa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe Changes in Second Bucket <br/>
+Observe changes in second bucket(notice changes in names caused multiple versions) <br/>
 <img src="https://i.imgur.com/qpaQPVY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
