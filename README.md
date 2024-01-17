@@ -43,6 +43,10 @@ Observe changes in second bucket(notice changes in names caused multiple version
 <img src="https://i.imgur.com/qpaQPVY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ The Team<br/>
+<img src="https://i.imgur.com/sjXnyJY.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
