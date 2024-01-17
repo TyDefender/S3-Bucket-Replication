@@ -20,28 +20,24 @@ Throughout the lab, I successfully learned how to create S3 buckets and implemen
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch S3 Bucket (with unique name) : <br/>
-<img src="https://i.imgur.com/3XJxeTP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Rule<br/>
+<img src="https://i.imgur.com/5s7Gsp0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Unblock Public Access:  <br/>
-<img src="https://i.imgur.com/91yDfPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Choose Destination<br/>
+<img src="https://i.imgur.com/YZWjo2s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Upload index and error files: <br/>
-<img src="https://i.imgur.com/B1VJodj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Upload Dog Photos<br/>
+<img src="https://i.imgur.com/X1ahqhM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enable Static Hosting:  <br/>
-<img src="https://i.imgur.com/Meky0c4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Rename Photos because my dogs deserve that<br/>
+<img src="https://i.imgur.com/NNZ9bAa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Write Custom Bucket Policy:  <br/>
-<img src="https://i.imgur.com/OLjVWL0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Publicly Accessible Static Website:  <br/>
-<img src="https://i.imgur.com/G9O1gNw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Observe Changes in Second Bucket <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization
 <br />
 <br />
 </p>
